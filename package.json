@@ -65,11 +65,11 @@
     },
     "config": {
         "commitizen": {
-            "path": "node_modules/cz-conventional-changelog"
+            "path": "./node_modules/cz-conventional-changelog"
         }
     },
     "scripts": {
-        "commit": "git cz",
+        "commit": "git-cz",
         "semantic-release": "semantic-release"
     }
 }
