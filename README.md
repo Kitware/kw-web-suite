@@ -14,7 +14,7 @@ Here is the full list that will be available to you with **kw-web-suite**.
 ### Minimum Runtime requirement
 
 - __Node__: 10.18.0
-- __NPM__: 6.4.1
+- __NPM__: 6.13.4
 
 Commitizen needs to be globally installed to prevent thirdpart git-cz to take over the formatting and put emoji everywhere. Hopefully the next version will address that and everything can remain local.
 
