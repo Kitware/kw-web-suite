@@ -1,3 +1,11 @@
+## From 9.x to 10.
+
+Removed @babel/polyfill in favor of core-js@3 and regenerator-runtime.
+
+Removed @babel/plugin-syntax-dynamic-import since it's included.
+
+Prettier defaults have changed.
+
 ## From 5.x to 6.
 
 Update to Webpack 4.
