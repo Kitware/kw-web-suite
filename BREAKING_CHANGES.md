@@ -1,3 +1,22 @@
+## From 10.x to 11.
+
+- Upgraded webpack from 4 to 5.
+- Upgraded webpack-cli from 3 to 4.
+- Upgraded webpack-merge from 4 to 5.
+- Upgraded eslint from 6.8 to 7.
+- Upgraded autoprefixer from 9 to 10.
+- Upgraded postcss from 7 to 8.
+- Upgraded css-loader from 3 to 4.
+- Upgraded exports-loader from 0.7 to 1.
+- Upgraded expose-loader from 0.7 to 1.
+  - Be sure to check up on how [exposes](https://github.com/webpack-contrib/expose-loader#exposes) work.
+- Upgraded postcss-loader from 3 to 4.
+- Upgraded style-loader from 1 to 2.
+- Upgraded svg-sprite-loader from 4 to 5.
+- Upgraded worker-loader from 2 to 3.
+- Upgraded copy-webpack-plugin from 5 to 6.
+- Upgraded terser-webpack-plugin from 2 to 4.
+
 ## From 9.x to 10.
 
 Removed @babel/polyfill in favor of core-js@3 and regenerator-runtime.
