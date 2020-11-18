@@ -72,7 +72,7 @@
         "webpack-notifier": "1.8.0",
         "commitizen": "4.2.1",
         "cz-conventional-changelog": "3.3.0",
-        "semantic-release": "17.2.1",
+        "semantic-release": "17.2.3",
         "shelljs": "0.8.4",
         "prettier": "2.1.2",
         "shx": "0.3.2",
